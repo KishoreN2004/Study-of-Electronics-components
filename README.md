@@ -38,13 +38,13 @@ Integrated circuits (ICs) contain many electronic components fabricated on a sin
 
 Electronic components are available in different packages, such as through-hole and surface-mount devices (SMD). Each component has a specific symbol, number of terminals, polarity, and electrical value, which must be correctly identified before using it in a circuit.
 
-# OBSERVATION TABLE:
- 
-<img width="1443" height="121" alt="image" src="https://github.com/user-attachments/assets/4da90fe3-303e-4cb3-9841-c20de0b351b7" />
-
 
 # EXPECTED OUTPUT:
  
+<img width="968" height="745" alt="image" src="https://github.com/user-attachments/assets/d522a48b-1df9-4a66-90fb-de1ac781a6d1" />
+<img width="957" height="757" alt="image" src="https://github.com/user-attachments/assets/8f372c9f-7bfa-4233-baa8-4a81c18c0961" />
+<img width="940" height="741" alt="image" src="https://github.com/user-attachments/assets/1d150141-3474-4f2c-bd23-4da71cc28d1e" />
+<img width="950" height="307" alt="image" src="https://github.com/user-attachments/assets/95c7ac7f-570d-4c4f-ac26-46e407d40037" />
 
 [Book1 edc.xlsx](https://github.com/user-attachments/files/25029693/Book1.edc.xlsx)
 
